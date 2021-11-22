@@ -32,5 +32,6 @@ export default {
 
 .container{
   background-image: linear-gradient(45deg, green, white, red);
+  height: 200px;
 }
 </style>
